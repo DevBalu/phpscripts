@@ -1,2 +1,2 @@
-# phps
-amazing scripts written in phpcripts
+# php
+amazing scripts written in php
